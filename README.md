@@ -5,6 +5,7 @@ Make 15 is a simple strategy game where you have the numbers from 1 to 9 and two
 Project_Make-15 is a Windows Communication Foundation project that allows 2 players to connect through a web service and play the game against each other.
 ## Game menu
 Once you run a game client, you see a menu of 3 options - Find match for online game, PVE for Player against the system offline game and Help section for game and GUI rules.
+
 ![Menu](https://github.com/georgi2012/Project_Make-15/blob/main/readme_img/menu.png)
 ## Player names
 Each player has the chance to pick a name before the game that will be used in the chat and shown in the GUI window. Names should start with an uppercase english letter and have nothing but numbers and english letters in it. Color indicator will let you know if the player name is correct. Also a default name will be suggested once the window is opened.
