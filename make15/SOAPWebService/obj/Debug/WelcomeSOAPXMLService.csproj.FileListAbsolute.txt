@@ -1,0 +1,18 @@
+E:\eug\esc\_C#\FMIC#\C#F13\w13\Lectures\WPFupdate\Samples\WelcomeSOAPXMLService\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll.config
+E:\eug\esc\_C#\FMIC#\C#F13\w13\Lectures\WPFupdate\Samples\WelcomeSOAPXMLService\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll
+E:\eug\esc\_C#\FMIC#\C#F13\w13\Lectures\WPFupdate\Samples\WelcomeSOAPXMLService\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.pdb
+E:\eug\esc\_C#\FMIC#\C#F13\w13\Lectures\WPFupdate\Samples\WelcomeSOAPXMLService\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.dll
+E:\eug\esc\_C#\FMIC#\C#F13\w13\Lectures\WPFupdate\Samples\WelcomeSOAPXMLService\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Lecture15bF20SampleCode (1)\WebServicesF18\WelcomeSOAPXMLService\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\Lecture15bF20SampleCode (1)\WebServicesF18\WelcomeSOAPXMLService\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Lecture15bF20SampleCode (1)\WebServicesF18\WelcomeSOAPXMLService\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Lecture15bF20SampleCode (1)\WebServicesF18\WelcomeSOAPXMLService\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Lecture15bF20SampleCode (1)\WebServicesF18\WelcomeSOAPXMLService\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Lecture15bF20SampleCode (1)\WebServicesF18\WelcomeSOAPXMLService\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.csprojAssemblyReference.cache

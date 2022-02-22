@@ -1,0 +1,51 @@
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.lref
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.baml
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.g.resources
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.Properties.Resources.resources
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.GenerateResource.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.lref
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.baml
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.g.resources
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.Properties.Resources.resources
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.GenerateResource.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.lref
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.baml
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.g.resources
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.Properties.Resources.resources
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.GenerateResource.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csprojAssemblyReference.cache
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\bin\Debug\UsrCtrl_GameWindow.pdb
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csprojAssemblyReference.cache
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.g.cs
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.cache
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow_MarkupCompile.lref
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UC_GameWindow.baml
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.g.resources
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.Properties.Resources.resources
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.GenerateResource.cache
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.dll
+D:\ProgrammingProjects\C#Make15\make15\UsrCtrl_GameWindow\obj\Debug\UsrCtrl_GameWindow.pdb

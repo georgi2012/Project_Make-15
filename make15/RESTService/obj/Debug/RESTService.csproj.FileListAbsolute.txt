@@ -1,0 +1,7 @@
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\RESTService\bin\RESTService.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\RESTService\bin\RESTService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\RESTService\bin\RESTService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\RESTService\obj\Debug\RESTService.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\RESTService\obj\Debug\RESTService.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\RESTService\obj\Debug\RESTService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\RESTService\obj\Debug\RESTService.pdb

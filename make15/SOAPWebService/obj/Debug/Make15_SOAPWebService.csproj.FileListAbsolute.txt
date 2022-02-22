@@ -1,0 +1,21 @@
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\Make15_SOAPWebService.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15\WelcomeSOAPXMLService\obj\Debug\Make15_SOAPWebService.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\WelcomeSOAPXMLService\obj\Debug\Make15_SOAPWebService.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test\make15\WelcomeSOAPXMLService\obj\Debug\Make15_SOAPWebService.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\WelcomeSOAPXMLService\obj\Debug\Make15_SOAPWebService.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\WelcomeSOAPXMLService\obj\Debug\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.dll
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\WelcomeSOAPXMLService\bin\WelcomeSOAPXMLService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Project_Make15_test - Copy\make15\WelcomeSOAPXMLService\obj\Debug\Make15_SOAPWebService.csprojAssemblyReference.cache
