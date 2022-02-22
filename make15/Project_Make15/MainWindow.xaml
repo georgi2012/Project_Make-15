@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Project_Make15"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="400"
+        Title="Menu" Height="600" Width="400"
         MinHeight="500" MinWidth="300"
         MaxHeight="700" MaxWidth="500"
         Background="YellowGreen">
