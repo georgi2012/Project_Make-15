@@ -18,3 +18,8 @@ What is a multiplayer game without its chat? Chat window with color identificati
 ## PVE
 Want to practise before going to the Make 15 PVP championship? Or maybe just internet issues drive you crazy? PVE will let you play offline games against a simple AI algorithm without connecting to the network.
 ![PVE](https://github.com/georgi2012/Project_Make-15/blob/main/readme_img/pve.png)
+
+## More info
+Project includes a Doxygen generated documentation. Code is documented and everything is a separated in different regions for better readability. A bulgarian report has been added explaining programmer decisions for the project.
+## How to test
+Download the code and open the VS solution. Find the Make15 server project right_click-> View in Browser to start the server. Then you can run the Make15_Project->bin exe file for multiple client instances.
